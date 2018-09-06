@@ -4,9 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-accessdata-jpa/springboot-accessdata-jpa.iml" filepath="$PROJECT_DIR$/springboot-accessdata-jpa/springboot-accessdata-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-accessdata-mysql/springboot-accessdata-mysql.iml" filepath="$PROJECT_DIR$/springboot-accessdata-mysql/springboot-accessdata-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aop/springboot-aop.iml" filepath="$PROJECT_DIR$/springboot-aop/springboot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cache/springboot-cache.iml" filepath="$PROJECT_DIR$/springboot-cache/springboot-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jpa-web/springboot-jpa-web.iml" filepath="$PROJECT_DIR$/springboot-jpa-web/springboot-jpa-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-profile/springboot-profile.iml" filepath="$PROJECT_DIR$/springboot-profile/springboot-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rest-service/springboot-rest-service.iml" filepath="$PROJECT_DIR$/springboot-rest-service/springboot-rest-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-secure-web/springboot-secure-web.iml" filepath="$PROJECT_DIR$/springboot-secure-web/springboot-secure-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-serving-web/springboot-serving-web.iml" filepath="$PROJECT_DIR$/springboot-serving-web/springboot-serving-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" filepath="$PROJECT_DIR$/springboot-servlet/springboot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-method-security/springboot-web-method-security.iml" filepath="$PROJECT_DIR$/springboot-web-method-security/springboot-web-method-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-secure/springboot-web-secure.iml" filepath="$PROJECT_DIR$/springboot-web-secure/springboot-web-secure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-ui/springboot-web-ui.iml" filepath="$PROJECT_DIR$/springboot-web-ui/springboot-web-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootlearn.iml" filepath="$PROJECT_DIR$/springbootlearn.iml" />
     </modules>
   </component>

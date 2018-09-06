@@ -15,6 +15,15 @@
         <module>springboot-accessdata-mysql</module>
         <module>springboot-serving-web</module>
         <module>springboot-rest-service</module>
+        <module>springboot-servlet</module>
+        <module>springboot-aop</module>
+        <module>springboot-cache</module>
+        <module>springboot-profile</module>
+        <module>springboot-quartz</module>
+        <module>springboot-jpa-web</module>
+        <module>springboot-web-method-security</module>
+        <module>springboot-web-secure</module>
+        <module>springboot-web-ui</module>
     </modules>
 
     <parent>

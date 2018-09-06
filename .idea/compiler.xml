@@ -52,13 +52,85 @@
         <processorPath useClasspath="true" />
         <module name="springboot-rest-service" />
       </profile>
+      <profile default="false" name="Annotation profile for springboot-servlet" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-servlet" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-aop" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-aop" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-cache" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-cache" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-profile" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-quartz" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-quartz" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-jpa-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-jpa-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-web-method-security" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-web-method-security" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-web-secure" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-web-secure" />
+      </profile>
+      <profile default="false" name="Annotation profile for springboot-web-ui" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="springboot-web-ui" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-accessdata-jpa" target="1.8" />
       <module name="springboot-accessdata-mysql" target="1.8" />
+      <module name="springboot-aop" target="1.8" />
+      <module name="springboot-cache" target="1.8" />
+      <module name="springboot-jpa-web" target="1.8" />
+      <module name="springboot-profile" target="1.8" />
+      <module name="springboot-quartz" target="1.8" />
       <module name="springboot-rest-service" target="1.8" />
       <module name="springboot-secure-web" target="1.8" />
       <module name="springboot-serving-web" target="1.8" />
+      <module name="springboot-servlet" target="1.8" />
+      <module name="springboot-web-method-security" target="1.8" />
+      <module name="springboot-web-secure" target="1.8" />
+      <module name="springboot-web-ui" target="1.8" />
       <module name="springbootlearn" target="1.8" />
     </bytecodeTargetLevel>
   </component>

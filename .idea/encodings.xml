@@ -4,9 +4,18 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-accessdata-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-accessdata-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-jpa-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-rest-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-secure-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-serving-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web-method-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web-secure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web-ui" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
